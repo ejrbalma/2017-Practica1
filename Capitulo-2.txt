@@ -1,17 +1,12 @@
 Capitulo 2
 
 
-Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, 
-Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, 
-Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, 
 Párrafo 1.
 
-Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, 
-Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, 
-Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2.
+Párrafo 2.
 
-Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3.
+Párrafo 3.
 
-Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4.
+Párrafo 4.
 
-Parrafo 5, Parrafo 5, Parrafo 5, Parrafo 5, Parrafo 5, Parrafo 5.
+Párrafo 5.
