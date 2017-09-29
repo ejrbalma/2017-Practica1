@@ -1,13 +1,7 @@
 Capitulo 1
 
-Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, 
-Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, 
-Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, 
-Párrafo 1, 
+Párrafo 1.
 
+Párrafo 2.
 
-
-
-
-
-
+Párrafo 3.
