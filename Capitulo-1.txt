@@ -1,9 +1,9 @@
-Capitulo 1
+Chapter 1
 
-Párrafo 1.
+Paragraph 1.
 
-Párrafo 2.
+Paragraph 2.
 
-Párrafo 3.
+Paragraph 3.
 
-Párrafo 4.
+Paragraph 4.
