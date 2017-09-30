@@ -1,18 +1,10 @@
-Capitulo 3
+Chapter 3
 
 
-Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, 
-Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, 
-Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, 
-Párrafo 1.
+Paragraph 1.
 
-Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, 
-Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, 
-Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2.
+Paragraph 2.
 
-Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, 
-Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, 
-Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, 
-Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, 
+Paragraph 3.
 
-Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4, Parrafo 4.
+Paragraph 4.
