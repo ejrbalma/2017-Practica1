@@ -1,20 +1,12 @@
-Capitulo 4
+Chapter 4
 
 
-Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, 
-Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, 
-Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, Párrafo 1, 
-Párrafo 1.
+Paragraph 1.
 
-Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, 
-Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, 
-Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2, Parrafo 2.
+Paragraph 2.
 
-Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, 
-Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, 
-Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, 
-Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, Parrafo 3, 
+Paragraph 3.
 
-Parrafo 4
+Paragraph 4.
 
-Parrafo 5
+Paragraph 5
