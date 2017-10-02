@@ -10,3 +10,14 @@ Paragraph 3.
 Paragraph 4.
 
 Paragraph 5.
+
+Paragraph 6.
+
+Sub-paragraph 6.1
+Sub-paragraph 6.2
+Sub-paragraph 6.3
+
+Paragraph 7.
+
+Sub-paragraph 7.1
+Sub-paragraph 7.2
